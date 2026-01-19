@@ -6,3 +6,4 @@ flask
 langchain_huggingface 
 langchain_community
 -e . 
+langchain_astradb
