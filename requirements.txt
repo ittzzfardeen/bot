@@ -1,2 +1,8 @@
 langchain_groq
 dotenv 
+ipykernel 
+sentence-transformers 
+flask
+langchain_huggingface 
+langchain_community
+-e . 
